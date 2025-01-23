@@ -8,11 +8,15 @@ Welcome to the development site of the Modelica LargeTESModelingToolkit (LargeTE
 
 ## About
 
-The LargeTESmtk is a Modelica-based toolkit for the modeling and simulation of large-scale pit (PTES) and tank (TTES) thermal enery storage systems. Besides the pre-built storage models, the provided (sub-)models and the wide range of model configuration options allow high flexibility in the modeling process and facilitate the development of new models specifically tailored to the desired application. The following figure shows an overview of the (planned) LargeTESmtk features.
+The LargeTESmtk is a Modelica-based toolkit for the modeling and simulation of large-scale pit (PTES) and tank (TTES) thermal enery storage systems. In addition to an easy-to-use Modelica library with thoroughly tested, pre-built storage models, the toolkit's features should provide the foundation for developing new storage models customized to the wanted application.
 <p align="center">
   <figure>
     <img src="images/LargeTESmtk_Overview.png" alt="LargeTESmtk Overview" style="width: 100%;"/>
   </figure>
+</p>
+
+<p align="center">
+  <strong>Figure 1:</strong> Overview of LargeTESmtk features.
 </p>
 
 ## Application
@@ -25,7 +29,7 @@ Possible applications of the library models are in simulations studies...
 
 ## Development Status
 
-Many of the library's models exist in an initial version and have already been subjected to model verification and validation studies (see [Related Publications](#related-publications)). We are currently in the process of preparing these models for publication, which includes refining their structure, cleaning up the code, enhancing documentation, and improving usability.
+The library as well as many of the library's models exist in an initial version and have already been subjected to model verification and validation studies (see [Related Publications](#related-publications)). We are currently in the process of preparing these models for publication, which includes refining their structure, cleaning up the code, enhancing documentation, and improving usability, so that the first models will be released soon.
 
 ## Contact
 
