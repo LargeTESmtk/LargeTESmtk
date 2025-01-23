@@ -4,11 +4,11 @@
 
 # Modelica LargeTESmtk Library
 
-Welcome to the development site of the Modelica LargeTESModelingToolkit (LargeTESmtk) library.
+Welcome to the development site of the Modelica *LargeTESmtk* (LargeTESModelingToolkit) library.
 
 ## About
 
-The LargeTESmtk is a Modelica-based toolkit for the modeling and simulation of large-scale pit (PTES) and tank (TTES) thermal enery storage systems. In addition to an easy-to-use Modelica library with thoroughly tested, pre-built storage models, the toolkit's features should provide the foundation for developing new storage models customized to the wanted application.
+The *LargeTESmtk* is a Modelica-based toolkit for the modeling and simulation of large-scale pit (PTES) and tank (TTES) thermal energy storage systems. In addition to an easy-to-use Modelica library with thoroughly tested, pre-built storage models, the toolkit's features should provide the foundation for developing new storage models customized to the wanted application.
 <p align="center">
   <figure>
     <img src="images/LargeTESmtk_Overview.png" alt="LargeTESmtk Overview" style="width: 100%;"/>
@@ -16,7 +16,7 @@ The LargeTESmtk is a Modelica-based toolkit for the modeling and simulation of l
 </p>
 
 <p align="center">
-  <strong>Figure 1:</strong> Overview of LargeTESmtk features.
+  <strong>Figure 1:</strong> Overview of <i>LargeTESmtk</i> features.
 </p>
 
 ## Application
