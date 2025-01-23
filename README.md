@@ -16,7 +16,7 @@ The *LargeTESmtk* is a Modelica-based toolkit for the modeling and simulation of
 </p>
 
 <p align="center">
-  <strong>Figure 1:</strong> Overview of <i>LargeTESmtk</i> features.
+  <strong>Figure 1:</strong> Overview of (planned) <i>LargeTESmtk</i> features.
 </p>
 
 ## Application
