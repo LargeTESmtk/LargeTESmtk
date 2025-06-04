@@ -1,0 +1,2 @@
+# Ignore Dymola output, log and temporary files (in alphabetical order)
+*.bak-mo

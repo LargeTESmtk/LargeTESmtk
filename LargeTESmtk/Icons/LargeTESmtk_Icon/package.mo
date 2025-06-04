@@ -1,0 +1,126 @@
+within LargeTESmtk.Icons;
+partial package LargeTESmtk_Icon
+  annotation (Icon(coordinateSystem(preserveAspectRatio=false), graphics={
+        Rectangle(
+          extent={{-100,34},{100,-26}},
+          lineColor={0,0,0},
+          lineThickness=0.5,
+          fillColor={238,46,47},
+          fillPattern=FillPattern.Solid,
+          pattern=LinePattern.None),
+        Rectangle(
+          extent={{-100,100},{100,30}},
+          fillColor={0,136,255},
+          fillPattern=FillPattern.Solid,
+          pattern=LinePattern.None,
+          lineColor={0,0,0}),
+        Rectangle(
+          extent={{-100,-24},{100,-30}},
+          lineColor={0,0,0},
+          lineThickness=0.5,
+          fillColor={216,52,62},
+          fillPattern=FillPattern.Solid,
+          pattern=LinePattern.None),
+        Rectangle(
+          extent={{-100,-28},{100,-34}},
+          lineColor={0,0,0},
+          lineThickness=0.5,
+          fillColor={184,61,86},
+          fillPattern=FillPattern.Solid,
+          pattern=LinePattern.None),
+        Rectangle(
+          extent={{-100,-32},{100,-38}},
+          lineColor={0,0,0},
+          lineThickness=0.5,
+          fillColor={110,83,140},
+          fillPattern=FillPattern.Solid,
+          pattern=LinePattern.None),
+        Rectangle(
+          extent={{-100,-36},{100,-92}},
+          lineColor={0,0,0},
+          lineThickness=0.5,
+          fillColor={56,99,178},
+          fillPattern=FillPattern.Solid,
+          pattern=LinePattern.None),
+  Polygon(origin={4.102,-24.782},
+          rotation=-45,
+          fillColor={255,255,255},
+          fillPattern=FillPattern.Solid,
+          points={{-10.102,62.782},{-6.102,66.782},{5.898,66.782},{9.898,62.782},
+              {9.898,20.782},{3.898,14.782},{3.898,10.782},{9.898,6.782},{9.898,
+              2.782},{1.898,2.782},{1.898,-49.218},{5.898,-55.218},{1.898,-67.218},
+              {-2.102,-67.218},{-6.102,-55.218},{-2.102,-49.218},{-2.102,2.782},
+              {-10.102,2.782},{-10.102,6.782},{-4.102,10.782},{-4.102,14.782},{
+              -10.102,20.782},{-10.102,62.782}},
+          lineColor={0,0,0},
+          lineThickness=0.5,
+          pattern=LinePattern.None),
+  Polygon(origin={-0.617,-28.142},
+          rotation=45,
+          fillColor={255,255,255},
+          fillPattern=FillPattern.Solid,
+          points={{4.617,-5.858},{4.617,-41.858},{10.617,-47.858},{10.617,-57.858},
+              {4.617,-63.858},{4.617,-63.858},{2.617,-59.858},{2.617,-59.858},{
+              6.617,-55.858},{6.617,-49.858},{2.617,-45.858},{-3.383,-45.858},{
+              -7.383,-49.858},{-7.383,-55.858},{-3.383,-59.858},{2.617,-59.858},
+              {4.617,-63.858},{-5.383,-63.858},{-11.383,-57.858},{-11.383,-47.858},
+              {-5.383,-41.858},{-5.383,-5.858},{4.617,-5.858}},
+          lineColor={0,0,0},
+          lineThickness=0.5,
+          pattern=LinePattern.None),
+  Polygon(origin={-0.617,-28.142},
+          rotation=45,
+          fillColor={255,255,255},
+          fillPattern=FillPattern.Solid,
+          points={{-7.383,70.142},{-7.383,62.142},{0,58.333},{6.617,62.142},{
+              6.617,70.142},{8.65216,70.142},{10.617,66.142},{10.617,66.142},{
+              10.617,66.142},{10.617,60.142},{4.617,50.142},{4.617,4.142},{-5.383,
+              4.142},{-5.383,50.142},{-11.383,60.142},{-11.383,66.142},{-9.383,
+              70.142},{-7.383,70.142}},
+          lineColor={0,0,0},
+          lineThickness=0.5,
+          pattern=LinePattern.None),
+        Polygon(
+          points={{-40,-90},{-100,-90},{-100,30},{-40,-90}},
+          fillColor={166,83,0},
+          fillPattern=FillPattern.Solid,
+          pattern=LinePattern.None,
+          lineColor={0,0,0}),
+        Polygon(
+          points={{40,-90},{100,-90},{100,30},{40,-90}},
+          fillColor={166,83,0},
+          fillPattern=FillPattern.Solid,
+          pattern=LinePattern.None,
+          lineColor={0,0,0}),
+        Rectangle(
+          extent={{-100,-82},{100,-100}},
+          fillColor={166,83,0},
+          fillPattern=FillPattern.Solid,
+          pattern=LinePattern.None,
+          lineColor={0,0,0}),
+        Ellipse(
+          extent={{140,140},{60,60}},
+          lineColor={255,255,85},
+          fillColor={255,255,85},
+          fillPattern=FillPattern.Solid,
+          startAngle=0,
+          endAngle=90),
+        Rectangle(
+          lineColor={0,0,0},
+          extent={{-100,-100},{100,100}},
+          radius=0,
+          lineThickness=2)}),
+                          Diagram(coordinateSystem(preserveAspectRatio=false)),
+    Documentation(revisions="<html>
+
+<p>
+<ul>
+<li>
+June 03, 2025 by Michael Reisenbichler-S.:<br/>
+First published version.
+</li>
+</ul>
+</p>
+
+</html>"));
+end LargeTESmtk_Icon;
