@@ -1,0 +1,113 @@
+within LargeTESmtk.Icons.GroundDomain;
+partial class ConvRadHeatTransfer_SingleNo
+  extends LargeTESmtk.Icons.BaseClasses.Background_SkySun;
+  annotation (Icon(coordinateSystem(preserveAspectRatio=true), graphics={
+        Rectangle(
+          extent={{90,-40},{100,-100}},
+          lineColor={0,140,72},
+          lineThickness=1,
+          fillColor={255,255,255},
+          fillPattern=FillPattern.Solid,
+          pattern=LinePattern.None),
+        Rectangle(
+          extent={{-100,-40},{-90,-100}},
+          lineColor={0,140,72},
+          lineThickness=1,
+          fillColor={255,255,255},
+          fillPattern=FillPattern.Solid,
+          pattern=LinePattern.None),
+        Line(
+          points={{-20,0},{-20,90}},
+          color={191,0,0},
+          thickness=1),
+        Line(
+          points={{20,-30},{20,80}},
+          color={191,0,0},
+          thickness=1),
+        Polygon(
+          points={{20,90},{36,50},{4,50},{20,90}},
+          lineColor={191,0,0},
+          fillColor={191,0,0},
+          fillPattern=FillPattern.Solid),
+        Polygon(
+          points={{-20,-30},{-4,10},{-36,10},{-20,-30}},
+          lineColor={191,0,0},
+          fillColor={191,0,0},
+          fillPattern=FillPattern.Solid),
+        Rectangle(
+          extent={{30,-40},{90,-100}},
+          lineColor={0,0,0},
+          pattern=LinePattern.Dot,
+          lineThickness=0.5,
+          fillColor={255,255,255},
+          fillPattern=FillPattern.Solid),
+        Rectangle(
+          extent={{-90,-40},{-30,-100}},
+          lineColor={0,0,0},
+          pattern=LinePattern.Dot,
+          lineThickness=0.5,
+          fillColor={255,255,255},
+          fillPattern=FillPattern.Solid),
+        Rectangle(
+          extent={{-30,-40},{30,-100}},
+          lineColor={0,0,0},
+          lineThickness=1,
+          fillColor={166,83,0},
+          fillPattern=FillPattern.Solid),
+        Ellipse(
+          extent={{58,-72},{62,-68}},
+          lineColor={0,0,0},
+          lineThickness=0.5,
+          fillColor={0,0,0},
+          fillPattern=FillPattern.Solid),
+        Ellipse(
+          extent={{-62,-72},{-58,-68}},
+          lineColor={0,0,0},
+          lineThickness=0.5,
+          fillColor={0,0,0},
+          fillPattern=FillPattern.Solid),
+        Ellipse(
+          extent={{-2,-72},{2,-68}},
+          lineColor={0,0,0},
+          lineThickness=0.5,
+          fillColor={0,0,0},
+          fillPattern=FillPattern.Solid),
+        Line(
+          points={{100,-40},{90,-40}},
+          color={0,0,0},
+          pattern=LinePattern.Dash,
+          thickness=0.5),
+        Line(
+          points={{100,-100},{90,-100}},
+          color={0,0,0},
+          pattern=LinePattern.Dash,
+          thickness=0.5),
+        Line(
+          points={{-90,-100},{-100,-100}},
+          color={0,0,0},
+          pattern=LinePattern.Dash,
+          thickness=0.5),
+        Line(
+          points={{-90,-40},{-100,-40}},
+          color={0,0,0},
+          pattern=LinePattern.Dash,
+          thickness=0.5),
+        Line(
+          points={{-100,-100},{-100,-40}},
+          color={0,0,0}),
+        Line(
+          points={{100,-100},{100,-40}},
+          color={0,0,0})}),                                     Diagram(coordinateSystem(preserveAspectRatio=true)),
+    Documentation(revisions="<html>
+
+<p>
+<ul>
+<li>
+June 03, 2025 by Michael Reisenbichler-S.:<br/>
+First published version.
+</li>
+</ul>
+</p>
+
+</html>"));
+end ConvRadHeatTransfer_SingleNo;
