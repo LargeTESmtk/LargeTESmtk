@@ -105,7 +105,7 @@ In *Proceedings of the 15th International Modelica Conference*, 337–346. Aache
 
 ## Contact
 
-For questions or feedback, please contact [m.reisenbichler@aee.at](mailto:m.reisenbichler@aee.at) or [mic.reisenbichler@gmail.com](mailto:mic.reisenbichler@gmail.com).
+For questions or feedback, please contact [mic.reisenbichler@gmail.com](mailto:mic.reisenbichler@gmail.com).
 
 ## Related Publications
 
